@@ -1,0 +1,70 @@
+.form-control{
+  text-align: center;
+ 
+  margin-top: 10px;
+ 
+}
+.labeld{
+  text-align: center !important;
+
+}
+
+.carddesign{
+
+   
+  margin-top: 20px;
+  margin-left:50px;
+
+     width:18rem;
+     display:flex;
+     flex-direction: column;
+}
+.formdesign{
+  background-color: rgb(161, 236, 243);
+  margin-top: 10px;
+  max-width:28rem ;
+  margin-left: 500px;
+
+}
+.header{
+  background-color: rgb(161, 236, 243);
+  margin-top: 10px;
+  max-width:40rem ;
+  margin-left: 400px;
+  text-align: center;
+
+}
+.ml{
+margin-left: 10px;
+margin-right: 10px;
+padding: 0px 0px 0px 0px;
+margin: 0px 0px 0px 0px ;
+background-color:  rgb(161, 236, 243);
+border:none;
+}
+.btnm{
+ 
+  
+  margin-left: 40%;
+  margin-top: 8px;
+  margin-bottom: 20px;
+  background-color: rgb(0, 60, 255);
+}
+.bg{
+  background-color: rgb(132, 202, 243);
+
+}
+
+/* .container{
+  display: block;
+  background-color: rgb(125, 141, 145);
+  margin-left: 30px;
+  max-width: 30%;
+ 
+}
+.btndel{
+  background-color: blue;
+
+
+}
+ */
